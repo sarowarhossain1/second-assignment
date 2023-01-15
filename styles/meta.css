@@ -1,0 +1,67 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Poppins:wght@500&family=Source+Sans+Pro:wght@700&display=swap');
+
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+  /*---------------
+   nav and header styles 
+   --------------------*/
+header{
+    background-color:  rgba(255, 144, 14, 0.1);
+}
+nav{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+    width:1387px;
+    height: 50px;
+    margin: 0 auto;
+   
+
+}
+nav ul{
+    display: flex;
+    list-style: none;
+   
+}
+nav li{ margin-right: 16px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #424242;
+}
+.section{
+    background-color:  rgba(255, 144, 14, 0.1);
+}
+.banner{
+    padding: 80px 335px;
+    text-align: center;
+
+}
+.banner-title{
+    font-size:45px;
+    font-weight: 700;
+   
+}
+.banner-description{
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400px;
+    font-style: normal;
+    color: #727272; 
+}
+.btn-primary{
+    background-color: #FF900E;
+    padding: 19px 24px;
+    border: 0;
+    border-radius: 4px;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+
+}
+.banner-image img{
+    width: 1440px;
+    height: 700px;
+}

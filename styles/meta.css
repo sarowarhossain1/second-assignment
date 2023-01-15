@@ -65,3 +65,33 @@ nav ul li a{
     width: 1440px;
     height: 700px;
 }
+
+/*----------- 
+quick list styles
+--------------- */
+.list{
+    width:1387px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.list-sub-title{
+    display: flex;
+}
+.list-title img{
+   width: 342px;
+   height: 342px;
+   padding: 10px;
+}
+.list-item{
+    text-align: center;
+    margin-top: 300px;
+}
+
+
+.list-color{
+    color:#131313;
+}
+.item-color{
+    color: #FF900E;
+}

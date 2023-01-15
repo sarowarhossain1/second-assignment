@@ -202,3 +202,28 @@ quick list styles
 .bost-description{
     color:#727272;
 }
+
+/*--------- 
+sponsors styles
+------------ */
+
+.sponser{
+    margin-top: 100px;
+    text-align: center;
+}
+.sponser-title{
+    color:#131313;
+    font-weight: 700;
+    font-size:30px;
+}
+.sponser-description{
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 40px;
+}
+.sponser-list{
+   display:flex;
+   gap:130px;
+   width:166.76px;
+ 
+}

@@ -227,3 +227,33 @@ sponsors styles
    width:166.76px;
  
 }
+
+/*-------------
+ footer styles 
+ --------------*/
+
+ .footer{
+    margin-top: 50px;
+    
+}
+.footer-section{
+    margin-top: 50px;
+    text-align: center;
+    color:#424242;
+    font-size: 20px;
+    border:1px solid #FF900E;
+    background-color: #FFF4E7;
+    padding: 20px 30px;
+    border: 0;
+   
+  
+   
+}
+/*----------------------
+ smaller media quary style 
+ -------------------------*/
+ @media only screen and (max-width: 576px) {
+    nav{
+        
+    }
+ }

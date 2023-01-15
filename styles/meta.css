@@ -159,3 +159,46 @@ quick list styles
    
     
 }
+/*------------
+ icon styles 
+ -------------*/
+
+ .some-content{
+    margin-top: 150px;
+}
+.bost-section{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.some-sub-conten{
+    color:#131313;
+    font-weight: 700;
+    font-size: 55px;
+}
+.some-description{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 100px;
+}
+.bost-section{
+    gap:80px;
+}
+.bost{
+    border-radius: 5px;
+    padding: 30px;
+    text-align: center;
+    border: 2px solid #FF900E;
+    
+}
+.bost:hover{
+     background-color:antiquewhite;
+}
+.bost-title{
+    color:#424242;
+    font-size: px;
+    font-weight: 600;
+}
+.bost-description{
+    color:#727272;
+}
